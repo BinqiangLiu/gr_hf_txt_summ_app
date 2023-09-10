@@ -1,0 +1,4 @@
+gradio
+ipython
+Pillow
+python-dotenv
